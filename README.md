@@ -1,2 +1,2 @@
 # minetest-town
-#Towns
+This mod introduces towns into minetest
